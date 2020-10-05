@@ -1,0 +1,8 @@
+<Project Version="2" Name="epkk_project" FolderName="Packages">
+	<OutputDirectory>.</OutputDirectory>
+	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
+	<Packages>
+		<Package>PackageDefinitions\boreq-airport-epkk-project.xml</Package>
+	</Packages>
+</Project>
+
