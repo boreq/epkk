@@ -18,15 +18,15 @@
 			<AssetDir>PackageDefinitions\boreq-airport-epkk-project\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\boreq-airport-epkk-project\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="boreq-plceholder-name">
+		<AssetGroup Name="myairport">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>scene\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
+			<AssetDir>PackageSources\data\</AssetDir>
+			<OutputDir>scenery\global\scenery\</OutputDir>
 		</AssetGroup>
-		<AssetGroup Name="materials-placeholder-name">
+		<AssetGroup Name="mymaterials">
 			<Type>MaterialLib</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
