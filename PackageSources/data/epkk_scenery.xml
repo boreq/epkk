@@ -652,14 +652,17 @@
 			</Apron>
 		</Aprons>
 		<PaintedElements>
-			<PaintedLine type="DEFAULT" trueAngle="NONE">
-				<Vertex lat="50.07530361373505" lon="19.80127772728725"/>
-				<Vertex lat="50.07524349454884" lon="19.80123051935160"/>
-				<Vertex lat="50.07516191288761" lon="19.80123166398880"/>
-				<Vertex lat="50.07509909143762" lon="19.80126583650333"/>
-				<Vertex lat="50.07505537055030" lon="19.80131631654783"/>
-				<Vertex lat="50.07502367602575" lon="19.80136627624262"/>
-				<Vertex lat="50.07500156626352" lon="19.80137558657443"/>
+			<PaintedLine type="SERVICE_DASHED" trueAngle="NONE">
+				<Vertex lat="50.07538536571572" lon="19.79996552844744"/>
+				<Vertex lat="50.07557085295625" lon="19.79990580808894"/>
+				<Vertex lat="50.07567489667015" lon="19.79989110487907"/>
+				<Vertex lat="50.07571668823791" lon="19.79989465106798"/>
+				<Vertex lat="50.07575260985939" lon="19.79990022081762"/>
+				<Vertex lat="50.07578190908491" lon="19.79992082652537"/>
+				<Vertex lat="50.07581391674135" lon="19.79995206977597"/>
+				<Vertex lat="50.07584512676615" lon="19.79999633888513"/>
+				<Vertex lat="50.07586260476464" lon="19.80003756406306"/>
+				<Vertex lat="50.07587512221507" lon="19.80009743862775"/>
 			</PaintedLine>
 			<PaintedLine type="SLIM_RED" trueAngle="ALL_POINTS">
 				<Vertex lat="50.07292025659731" lon="19.80041743605355"/>
@@ -987,14 +990,6 @@
 				<Vertex lat="50.07465874921680" lon="19.80240212566799"/>
 				<Vertex lat="50.07468167453825" lon="19.80232839967424"/>
 			</PaintedLine>
-			<PaintedLine type="DEFAULT" trueAngle="NONE">
-				<Vertex lat="50.07425368368845" lon="19.80207708878882"/>
-				<Vertex lat="50.07429673574740" lon="19.80219557963994"/>
-				<Vertex lat="50.07436607179631" lon="19.80227852783339"/>
-				<Vertex lat="50.07444302413811" lon="19.80230293229797"/>
-				<Vertex lat="50.07452174533825" lon="19.80227839671699"/>
-				<Vertex lat="50.07513274415296" lon="19.80207151801246"/>
-			</PaintedLine>
 			<PaintedLine type="EDGE_SERVICE_DASHED" trueAngle="NONE">
 				<Vertex lat="50.07396301026042" lon="19.80279031294418"/>
 				<Vertex lat="50.07460078811704" lon="19.80258178885543"/>
@@ -1010,14 +1005,6 @@
 				<Vertex lat="50.07445164570370" lon="19.80052919606201"/>
 				<Vertex lat="50.07452710844514" lon="19.80121425207152"/>
 				<Vertex lat="50.07470519620051" lon="19.80248780060881"/>
-			</PaintedLine>
-			<PaintedLine type="DEFAULT" trueAngle="NONE">
-				<Vertex lat="50.07433695052306" lon="19.80269719864627"/>
-				<Vertex lat="50.07438568279521" lon="19.80281455621248"/>
-				<Vertex lat="50.07445804382043" lon="19.80288311483747"/>
-				<Vertex lat="50.07454384127453" lon="19.80291022674544"/>
-				<Vertex lat="50.07460097408772" lon="19.80289225627629"/>
-				<Vertex lat="50.07521847000544" lon="19.80268910187870"/>
 			</PaintedLine>
 			<PaintedLine type="SLIM_RED" trueAngle="ALL_POINTS">
 				<Vertex lat="50.07480909877960" lon="19.80325915064323"/>
@@ -1203,6 +1190,21 @@
 				<Vertex lat="50.07496995610241" lon="19.80327801050223"/>
 				<Vertex lat="50.07501326132996" lon="19.80329618614539"/>
 			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="50.07425368368845" lon="19.80207708878882"/>
+				<Vertex lat="50.07429673574740" lon="19.80219557963994"/>
+				<Vertex lat="50.07436607179631" lon="19.80227852783339"/>
+				<Vertex lat="50.07444302413811" lon="19.80230293229797"/>
+				<Vertex lat="50.07452174533825" lon="19.80227839671699"/>
+				<Vertex lat="50.07512072683730" lon="19.80207805079719"/>
+				<Vertex lat="50.07513110824225" lon="19.80207563098823"/>
+				<Vertex lat="50.07517619814911" lon="19.80210676485334"/>
+				<Vertex lat="50.07521672583848" lon="19.80212139803749"/>
+				<Vertex lat="50.07527752524825" lon="19.80211397554227"/>
+				<Vertex lat="50.07533563280523" lon="19.80208340834425"/>
+				<Vertex lat="50.07537853645608" lon="19.80203171012017"/>
+				<Vertex lat="50.07540137119226" lon="19.80197006993702"/>
+			</PaintedLine>
 			<PaintedLine type="EDGE_SERVICE_SOLID" trueAngle="ALL_POINTS">
 				<Vertex lat="50.07481165266707" lon="19.80325587928946"/>
 				<Vertex lat="50.07505330532371" lon="19.80336819868663"/>
@@ -1232,6 +1234,21 @@
 				<Vertex lat="50.07484721014169" lon="19.80299826454622"/>
 				<Vertex lat="50.07499928479574" lon="19.80294835461739"/>
 				<Vertex lat="50.07501755884257" lon="19.80307609896276"/>
+			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="50.07433695052306" lon="19.80269719864627"/>
+				<Vertex lat="50.07438568279521" lon="19.80281455621248"/>
+				<Vertex lat="50.07445804382043" lon="19.80288311483747"/>
+				<Vertex lat="50.07454384127453" lon="19.80291022674544"/>
+				<Vertex lat="50.07460097408772" lon="19.80289225627629"/>
+				<Vertex lat="50.07520226055011" lon="19.80269428862395"/>
+				<Vertex lat="50.07521733011816" lon="19.80269180371763"/>
+				<Vertex lat="50.07526421666033" lon="19.80271941416899"/>
+				<Vertex lat="50.07531238241207" lon="19.80273708919779"/>
+				<Vertex lat="50.07537277520773" lon="19.80272436308069"/>
+				<Vertex lat="50.07543582867798" lon="19.80268307645918"/>
+				<Vertex lat="50.07546837572345" lon="19.80264174799686"/>
+				<Vertex lat="50.07548883653374" lon="19.80259336086129"/>
 			</PaintedLine>
 			<PaintedLine type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="50.07521822923366" lon="19.80066566116590"/>
@@ -1276,6 +1293,15 @@
 				<Vertex lat="50.07536987364790" lon="19.79991582751568"/>
 				<Vertex lat="50.07488333818232" lon="19.80007207572901"/>
 			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="50.07530361373505" lon="19.80127772728725"/>
+				<Vertex lat="50.07524349454884" lon="19.80123051935160"/>
+				<Vertex lat="50.07516191288761" lon="19.80123166398880"/>
+				<Vertex lat="50.07509909143762" lon="19.80126583650333"/>
+				<Vertex lat="50.07505537055030" lon="19.80131631654783"/>
+				<Vertex lat="50.07502367602575" lon="19.80136627624262"/>
+				<Vertex lat="50.07500156626352" lon="19.80137558657443"/>
+			</PaintedLine>
 			<PaintedLine type="SERVICE_DASHED" trueAngle="NONE">
 				<Vertex lat="50.07489089065449" lon="19.80012734553877"/>
 				<Vertex lat="50.07537306835394" lon="19.79996738018793"/>
@@ -1295,12 +1321,25 @@
 				<Vertex lat="50.07490021563027" lon="19.80018227674664"/>
 				<Vertex lat="50.07537908976778" lon="19.80001979207322"/>
 			</PaintedLine>
+			<PaintedLine type="SERVICE_DASHED" trueAngle="NONE">
+				<Vertex lat="50.07501723463748" lon="19.80329665469943"/>
+				<Vertex lat="50.07532508100860" lon="19.80344251694855"/>
+			</PaintedLine>
 			<PaintedLine type="SLIM_RED" trueAngle="ALL_POINTS">
 				<Vertex lat="50.07526294935985" lon="19.80466100088102"/>
 				<Vertex lat="50.07517919558111" lon="19.80507257970213"/>
 				<Vertex lat="50.07526581756004" lon="19.80535624614828"/>
 				<Vertex lat="50.07524126830132" lon="19.80548183956934"/>
 				<Vertex lat="50.07530588321702" lon="19.80551499829273"/>
+			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="50.07540136493284" lon="19.80197970104706"/>
+				<Vertex lat="50.07536142127643" lon="19.80194464669267"/>
+				<Vertex lat="50.07531397452593" lon="19.80193784145669"/>
+				<Vertex lat="50.07526432585558" lon="19.80193805634602"/>
+				<Vertex lat="50.07520000557371" lon="19.80196884319601"/>
+				<Vertex lat="50.07516522545694" lon="19.80201745179212"/>
+				<Vertex lat="50.07513068172299" lon="19.80207446163774"/>
 			</PaintedLine>
 			<PaintedLine type="EDGE_SERVICE_SOLID" trueAngle="ALL_POINTS">
 				<Vertex lat="50.07515922129545" lon="19.80341895497284"/>
@@ -1316,6 +1355,17 @@
 				<Vertex lat="50.07541394260841" lon="19.80023740858987"/>
 				<Vertex lat="50.07544486561825" lon="19.80026322138987"/>
 				<Vertex lat="50.07546467584832" lon="19.80025988834551"/>
+			</PaintedLine>
+			<PaintedLine type="DEFAULT" trueAngle="NONE">
+				<Vertex lat="50.07549008578313" lon="19.80260225824602"/>
+				<Vertex lat="50.07546689492560" lon="19.80257621666926"/>
+				<Vertex lat="50.07541501906788" lon="19.80254595022774"/>
+				<Vertex lat="50.07537036298016" lon="19.80254490769608"/>
+				<Vertex lat="50.07532777987239" lon="19.80255562790900"/>
+				<Vertex lat="50.07528276532391" lon="19.80258623963177"/>
+				<Vertex lat="50.07524629582853" lon="19.80262901195202"/>
+				<Vertex lat="50.07521760153040" lon="19.80268922071033"/>
+				<Vertex lat="50.07521084513264" lon="19.80269011357611"/>
 			</PaintedLine>
 			<PaintedLine type="DEFAULT" trueAngle="NONE">
 				<Vertex lat="50.07517424743975" lon="19.80035713325516"/>
@@ -1430,6 +1480,11 @@
 				<Vertex lat="50.07532333964246" lon="19.80349816059633"/>
 				<Vertex lat="50.07576101760796" lon="19.80369917460651"/>
 				<Vertex lat="50.07589616801332" lon="19.80365523149721"/>
+			</PaintedLine>
+			<PaintedLine type="SERVICE_DASHED" trueAngle="ALL_POINTS">
+				<Vertex lat="50.07533536922159" lon="19.80344832502616"/>
+				<Vertex lat="50.07576138416628" lon="19.80364058392630"/>
+				<Vertex lat="50.07588913438099" lon="19.80360652228953"/>
 			</PaintedLine>
 			<PaintedLine type="EDGE_SERVICE_DASHED" trueAngle="ALL_POINTS">
 				<Vertex lat="50.07587891687334" lon="19.80355313849330"/>
@@ -1615,11 +1670,19 @@
 				<Vertex lat="50.07622133489931" lon="19.80319826926540"/>
 				<Vertex lat="50.07584398595471" lon="19.80332976866354"/>
 			</PaintedLine>
+			<PaintedLine type="SERVICE_DASHED" trueAngle="NONE">
+				<Vertex lat="50.07589737887863" lon="19.80360461318229"/>
+				<Vertex lat="50.07622622105972" lon="19.80349306498951"/>
+			</PaintedLine>
 			<PaintedLine type="EDGE_SERVICE_DASHED" trueAngle="NONE">
 				<Vertex lat="50.07596192638029" lon="19.80040219071578"/>
 				<Vertex lat="50.07599152088703" lon="19.80043141728562"/>
 				<Vertex lat="50.07602753097275" lon="19.80044665250793"/>
 				<Vertex lat="50.07634908356499" lon="19.80034419366844"/>
+			</PaintedLine>
+			<PaintedLine type="SERVICE_DASHED" trueAngle="NONE">
+				<Vertex lat="50.07632158774269" lon="19.80328363553476"/>
+				<Vertex lat="50.07587422871490" lon="19.80009699091698"/>
 			</PaintedLine>
 			<PaintedLine type="EDGE_SERVICE_DASHED" trueAngle="NONE">
 				<Vertex lat="50.07599671554467" lon="19.80063063952114"/>
