@@ -185,8 +185,28 @@
 		<LibraryObject name="{42B313B5-2350-40AC-8D87-3C62F3CFB250}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Fence_Grilling01_High-->
+	<SceneryObject lat="50.07473931133453" lon="19.80544545543567" alt="0.00000000000000" pitch="0.000785" bank="-0.000785" heading="-163.893121" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling01_High-->
 	<SceneryObject lat="50.08345327140405" lon="19.80731922595289" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling01_Middle-->
+	<SceneryObject lat="50.07482605376305" lon="19.80559768396087" alt="0.00000000000000" pitch="0.001544" bank="-0.001967" heading="-76.750699" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{34129A4E-720B-42A3-AD8B-09C2E14BADB3}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FuelCylinder-->
+	<SceneryObject lat="50.07487040422721" lon="19.80572512805850" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-163.179599" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E2316095-4CF1-4AC1-A7B0-8E7065FC77B4}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FuelCylinder-->
+	<SceneryObject lat="50.07488909480215" lon="19.80563171884280" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-163.179599" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E2316095-4CF1-4AC1-A7B0-8E7065FC77B4}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: FuelCylinder-->
+	<SceneryObject lat="50.07490502901938" lon="19.80555384479876" alt="0.00000000000000" pitch="0.001223" bank="-0.001223" heading="-163.179599" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E2316095-4CF1-4AC1-A7B0-8E7065FC77B4}" scale="1.000000"/>
 	</SceneryObject>
 	<!--SceneryObject name: Gen_Hangar07-->
 	<SceneryObject lat="50.07318162904104" lon="19.80498902519495" alt="0.00000000000000" pitch="0.000560" bank="-0.000560" heading="-163.991968" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
