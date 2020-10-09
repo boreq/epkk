@@ -2,7 +2,7 @@
 	<OutputDirectory>.</OutputDirectory>
 	<TemporaryOutputDirectory>_PackageInt</TemporaryOutputDirectory>
 	<Packages>
-		<Package>PackageDefinitions\boreq-airport-epkk-project.xml</Package>
+		<Package>PackageDefinitions\boreq-airport-epkk-balice.xml</Package>
 	</Packages>
 </Project>
 
