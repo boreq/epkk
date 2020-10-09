@@ -1,4 +1,4 @@
-<AssetPackage Name="boreq-airport-epkk-balice" Version="0.1.0">
+<AssetPackage Name="boreq-airport-epkk-balice" Version="0.0.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Airport Kraków-Balice</Title>
@@ -15,8 +15,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\boreq-airport-epkk-balice\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\boreq-airport-epkk-balice</OutputDir>
+			<AssetDir>PackageDefinitions\boreq-airport-epkk-balice\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\boreq-airport-epkk-balice\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="myairport">
 			<Type>BGL</Type>
