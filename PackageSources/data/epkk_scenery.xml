@@ -240,6 +240,14 @@
 	<SceneryObject lat="50.07653890879379" lon="19.78801080298719" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{986DE01A-E981-4CC4-B29A-9C74F48CF205}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Taxi_Light_01-->
+	<SceneryObject lat="50.07854012344268" lon="19.80307780696577" alt="0.00000000000000" pitch="0.000205" bank="-0.000205" heading="170.185228" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F2030F5B-C61E-47E2-BD12-2611B9857FB2}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Taxi_Light_01-->
+	<SceneryObject lat="50.07860787421144" lon="19.80351389563599" alt="0.00000000000000" pitch="0.000205" bank="-0.000205" heading="170.185228" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F2030F5B-C61E-47E2-BD12-2611B9857FB2}" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: Truck04_White-->
 	<SceneryObject lat="50.07470587966888" lon="19.80584534592251" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{388A3806-18AD-4A62-8028-BAB61354D955}" scale="1.000000"/>
