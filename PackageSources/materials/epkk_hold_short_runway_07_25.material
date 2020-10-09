@@ -1,8 +1,11 @@
-<Material Version="1.4.0" Name="epkk_hold_short_runway_07" Guid="{A335CE4D-83CE-41AA-B44A-1E997310D56D}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
-	<TagList/>
+<Material Version="1.4.0" Name="epkk_hold_short_runway_07_25" Guid="{F9B129E0-0109-4D13-A15A-B30301775DD8}" SurfaceType="PAINT" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Transparent">
+	<TagList>
+		<Tag>Asobo_Asphalt</Tag>
+		<Tag/>
+	</TagList>
 	<FlagList/>
 	<TextureList>
-		<Texture FileName="Textures\epkk_hold_short_runway_07.png" Binding="MTL_BITMAP_DECAL0"/>
+		<Texture FileName="Textures\epkk_hold_short_runway_07_25.png" Binding="MTL_BITMAP_DECAL0"/>
 	</TextureList>
 	<Attributes>
 		<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
