@@ -64,6 +64,18 @@
 	<SceneryObject lat="50.07677649442219" lon="19.80239228365697" alt="0.00000000000000" pitch="0.001257" bank="-0.001257" heading="166.248362" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{5E90516C-73A1-4CA5-8657-E07F71AE1C84}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Airport_PlasticBarrier_Type3_12_pack-->
+	<SceneryObject lat="50.07512619753070" lon="19.77246034947974" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{39870F58-BF0E-476B-80D4-44EF0BA9B9E1}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Airport_PlasticBarrier_Type3_20_pack-->
+	<SceneryObject lat="50.07386848888324" lon="19.77199518295205" alt="0.00000000000000" pitch="0.000294" bank="-0.000294" heading="170.338129" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{B9847D22-CBDB-4D52-9150-E793BA506A0F}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Airport_PlasticBarrier_Type3_20_pack-->
+	<SceneryObject lat="50.07390878684303" lon="19.77236367106571" alt="0.00000000000000" pitch="0.000294" bank="-0.000294" heading="170.338129" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{B9847D22-CBDB-4D52-9150-E793BA506A0F}" scale="1.000000"/>
+	</SceneryObject>
 	<!--SceneryObject name: ILS_Antenna_02-->
 	<SceneryObject lat="50.07492616243503" lon="19.76467771235530" alt="0.00000000000000" pitch="0.000738" bank="-0.000738" heading="-103.047515" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C233E165-298F-4606-97AB-4F22DD8EB1B2}" scale="1.000000"/>
@@ -2038,8 +2050,7 @@
 			</PaintedLine>
 			<PaintedLine type="SERVICE_DASHED" trueAngle="NONE">
 				<Vertex lat="50.07680221558086" lon="19.80333661148224"/>
-				<Vertex lat="50.07640226069468" lon="19.80043862073183"/>
-				<Vertex lat="50.07639504506935" lon="19.80038288477078"/>
+				<Vertex lat="50.07639239322613" lon="19.80038417672591"/>
 				<Vertex lat="50.07598332833022" lon="19.80051769542055"/>
 			</PaintedLine>
 			<PaintedLine type="HOLD_SHORT_TAXIWAY" trueAngle="NONE">
