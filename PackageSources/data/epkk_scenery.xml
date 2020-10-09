@@ -76,6 +76,106 @@
 	<SceneryObject lat="50.07390878684303" lon="19.77236367106571" alt="0.00000000000000" pitch="0.000294" bank="-0.000294" heading="170.338129" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{B9847D22-CBDB-4D52-9150-E793BA506A0F}" scale="1.000000"/>
 	</SceneryObject>
+	<!--SceneryObject name: Algeco_White_WhiteRoof-->
+	<SceneryObject lat="50.07788312069695" lon="19.79578797580648" alt="0.00000000000000" pitch="0.000355" bank="-0.000389" heading="-103.743935" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{081DBED5-6284-4930-900C-68F396A4A3C1}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Baggage_Cart01-->
+	<SceneryObject lat="50.07518160548454" lon="19.80319128507880" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2CB153E2-0A99-4D2D-9A8B-38D4DF7DA662}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Baggage_Cart01_Blue-->
+	<SceneryObject lat="50.07514546728996" lon="19.80316620874826" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F7AA2E8A-E931-43D9-B9F7-8FFE8B12FD4B}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Baggage_Cart01_Yellow-->
+	<SceneryObject lat="50.07528019993669" lon="19.80312541564410" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{2FB69FDA-68C0-4996-B958-F344F8E72491}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Baggage_Cart02-->
+	<SceneryObject lat="50.07523604065464" lon="19.80309401178259" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{300E88E6-B4CA-4A93-B367-543AF11E0507}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Baggage_Cart02_Blue-->
+	<SceneryObject lat="50.07527329600813" lon="19.80320415582026" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D8D55198-0FBC-4166-9FD4-5A3D30A40A81}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: BarrelBlue01-->
+	<SceneryObject lat="50.07521947364025" lon="19.80319639338230" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AFE9020C-787F-4BC1-A3A6-3F47C7500544}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_Metal01-->
+	<SceneryObject lat="50.07521364015223" lon="19.80324642037657" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{D975E2A3-7AF4-41A5-8A74-9995EC607EE5}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Barrier_RedandWhite-->
+	<SceneryObject lat="50.07522639245536" lon="19.80326998981578" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{6D058A0B-3A60-4722-8C60-D0FD2E9FB859}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Blue_Container-->
+	<SceneryObject lat="50.07521057509098" lon="19.80315980188783" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3C99E083-B73B-448C-BAFE-82CE4E2070FC}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Boarding_Stairs_Down-->
+	<SceneryObject lat="50.07510450919155" lon="19.80313180164219" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{AC96252F-1FA6-41E9-8561-50CFC16AE76D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car01_Black-->
+	<SceneryObject lat="50.07476376440889" lon="19.80625881235984" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{F7D2DAE8-37A9-4BE3-BCBB-3430C6E597FE}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car02_Red-->
+	<SceneryObject lat="50.07480963315273" lon="19.80613783830269" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{E0EF3F35-A4E1-4C51-9E50-1993537B0609}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: CarFacillity01_Black-->
+	<SceneryObject lat="50.07485272021898" lon="19.80602420156191" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{4439C203-B3DB-419B-8251-FA5AC477007A}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: CarUtility01_White-->
+	<SceneryObject lat="50.07472887751334" lon="19.80599409555246" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{939D8D5A-8F2E-4985-92A8-F8BED248DAA9}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car_Line_16C-->
+	<SceneryObject lat="50.07493885091140" lon="19.80627457194050" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{3B7B246E-7621-4A07-8F64-956BBF688C21}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Car_Pack_10C-->
+	<SceneryObject lat="50.07481977651799" lon="19.80652885543245" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{44F638CD-B3B4-42EF-8E0A-B501423F3904}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cone-->
+	<SceneryObject lat="50.07516765661382" lon="19.80324850196915" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{154D5390-533B-456D-80E9-16967528BF22}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cone_Long_Red-->
+	<SceneryObject lat="50.07511552402321" lon="19.80322966344069" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{53C10CB0-8100-437A-A9E6-308439E67877}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Cone_Red_Small-->
+	<SceneryObject lat="50.07511552403942" lon="19.80322966345911" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{9D4250F8-D24B-4D5A-A61B-B980EBF7D29D}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: ConstructionDumpster_White_Empty-->
+	<SceneryObject lat="50.07508664305235" lon="19.80322769218840" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{42B313B5-2350-40AC-8D87-3C62F3CFB250}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Fence_Grilling01_High-->
+	<SceneryObject lat="50.08345327140405" lon="19.80731922595289" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{B854C6CA-D936-4A43-A111-A29E7A5AFAD4}" scale="1.000000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar07-->
+	<SceneryObject lat="50.07318162904104" lon="19.80498902519495" alt="0.00000000000000" pitch="0.000560" bank="-0.000560" heading="-163.991968" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{992F5069-9BEF-4BAA-BA38-863035A92234}" scale="1.030000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar07-->
+	<SceneryObject lat="50.07379720958752" lon="19.80527091825990" alt="0.00000000000000" pitch="0.000560" bank="-0.000560" heading="-163.991968" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{992F5069-9BEF-4BAA-BA38-863035A92234}" scale="1.030000"/>
+	</SceneryObject>
+	<!--SceneryObject name: Gen_Hangar07-->
+	<SceneryObject lat="50.07442727698970" lon="19.80557083831483" alt="0.00000000000000" pitch="0.000560" bank="-0.000560" heading="-163.991968" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{992F5069-9BEF-4BAA-BA38-863035A92234}" scale="1.030000"/>
+	</SceneryObject>
 	<!--SceneryObject name: ILS_Antenna_02-->
 	<SceneryObject lat="50.07492616243503" lon="19.76467771235530" alt="0.00000000000000" pitch="0.000738" bank="-0.000738" heading="-103.047515" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{C233E165-298F-4606-97AB-4F22DD8EB1B2}" scale="1.000000"/>
