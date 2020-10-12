@@ -34,6 +34,14 @@
 			<AssetDir>PackageSources\materials\</AssetDir>
 			<OutputDir>MaterialLibs\mymaterials\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="mymodels">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\models\</AssetDir>
+			<OutputDir>scenery\global\scenery\</OutputDir>
+		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
 
