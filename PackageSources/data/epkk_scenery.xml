@@ -982,14 +982,14 @@
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="34" end="122" width="23.000000" weightLimit="0" name="17" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="90" end="31" width="23.000000" weightLimit="0" name="18" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="100" end="89" width="23.000000" weightLimit="0" name="19" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwaySign lat="50.07853556070081" lon="19.80288654446770" heading="79.096069" label="l[A]r25" justification="LEFT" size="SIZE5"/>
+		<TaxiwaySign lat="50.07853309772861" lon="19.80288973811993" heading="79.096069" label="l[A]r25" justification="LEFT" size="SIZE5"/>
 		<TaxiwaySign lat="50.07759411084722" lon="19.79044888790315" heading="79.096069" label="l[C]r07-25" justification="LEFT" size="SIZE5"/>
 		<TaxiwaySign lat="50.07625825688022" lon="19.78059022865511" heading="89.769287" label="l[D]r07-25" justification="LEFT" size="SIZE5"/>
 		<TaxiwaySign lat="50.07448996666169" lon="19.76818093265978" heading="77.261353" label="l[F]r07" justification="LEFT" size="SIZE5"/>
 		<TaxiwaySign lat="50.07771807339518" lon="19.79125613121534" heading="79.096069" label="r07-25l[C]" justification="LEFT" size="SIZE5"/>
 		<TaxiwaySign lat="50.07627867847243" lon="19.78144800366417" heading="93.197021" label="r07-25l[D]" justification="LEFT" size="SIZE5"/>
 		<TaxiwaySign lat="50.07461346539330" lon="19.76901989369106" heading="77.261353" label="r07l[F]" justification="LEFT" size="SIZE5"/>
-		<TaxiwaySign lat="50.07864849599043" lon="19.80375339155266" heading="79.096069" label="r25l[A]" justification="LEFT" size="SIZE5"/>
+		<TaxiwaySign lat="50.07864678287973" lon="19.80375621110789" heading="79.096069" label="r25l[A]" justification="LEFT" size="SIZE5"/>
 		<Runway lat="50.07782929529670" lon="19.78552902887744" alt="225.79840111918747" heading="257.80676269531250" length="2555.29638671875000" width="61.48694610595703" patternAltitude="304.79998779296875" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="25" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="FALSE" excludeVegetationAround="TRUE">
 			<RunwayDeformation alt="225.972427" ratio="0.000000"/>
 			<RunwayDeformation alt="225.880249" ratio="1.000000"/>
