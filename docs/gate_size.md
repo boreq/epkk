@@ -28,11 +28,11 @@ combination of aircraft wingspan and outer main gear wheel span.
 
 ## Chosen mapping in Microsoft Flight Simulator
 
-| Code letter   | Gate size             | 
-| ------------- | --------------------- | 
+| Code letter   | Gate size             | Ramp size      |
+| ------------- | --------------------- | -------------- |
 | A             |                       | 
-| B             | Gate small            |
-| C             | Gate medium           |
+| B             | Gate small            | GA medium
+| C             | Gate medium           | GA large
 | D             | Gate heavy            |
 | E             | Gate heavy            |
 | F             |                       |
