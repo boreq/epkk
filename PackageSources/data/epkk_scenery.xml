@@ -704,10 +704,16 @@
 		<TaxiwayPoint index="8" type="NORMAL" orientation="FORWARD" lat="50.07315678337491" lon="19.77017933879006"/>
 		<TaxiwayPoint index="5" type="NORMAL" orientation="FORWARD" lat="50.07335273924285" lon="19.76900622599915"/>
 		<TaxiwayPoint index="9" type="NORMAL" orientation="FORWARD" lat="50.07349602053609" lon="19.77262204195922"/>
-		<TaxiwayPoint index="40" type="NORMAL" orientation="FORWARD" lat="50.07397540124133" lon="19.80010748703878"/>
-		<TaxiwayPoint index="36" type="NORMAL" orientation="FORWARD" lat="50.07403425172423" lon="19.80045982534913"/>
+		<TaxiwayPoint index="40" type="NORMAL" orientation="FORWARD" lat="50.07398791497895" lon="19.80017294752157"/>
+		<TaxiwayPoint index="36" type="NORMAL" orientation="FORWARD" lat="50.07402155360612" lon="19.80036882973994"/>
+		<TaxiwayPoint index="140" type="NORMAL" orientation="FORWARD" lat="50.07404856668044" lon="19.79990959108112"/>
 		<TaxiwayPoint index="23" type="NORMAL" orientation="FORWARD" lat="50.07406002835259" lon="19.77668360270502"/>
-		<TaxiwayPoint index="37" type="NORMAL" orientation="FORWARD" lat="50.07414049422649" lon="19.79972339176959"/>
+		<TaxiwayPoint index="138" type="NORMAL" orientation="FORWARD" lat="50.07408360719101" lon="19.80082634556217"/>
+		<TaxiwayPoint index="136" type="NORMAL" orientation="FORWARD" lat="50.07410276221287" lon="19.80095187767922"/>
+		<TaxiwayPoint index="37" type="NORMAL" orientation="FORWARD" lat="50.07419015131713" lon="19.79969281655319"/>
+		<TaxiwayPoint index="130" type="NORMAL" orientation="FORWARD" lat="50.07419891079111" lon="19.80166950361827"/>
+		<TaxiwayPoint index="133" type="NORMAL" orientation="FORWARD" lat="50.07421933265694" lon="19.80181592783667"/>
+		<TaxiwayPoint index="131" type="NORMAL" orientation="FORWARD" lat="50.07427459050386" lon="19.80222771485877"/>
 		<TaxiwayPoint index="6" type="NORMAL" orientation="REVERSE" lat="50.07429905099217" lon="19.76867048099631"/>
 		<TaxiwayPoint index="38" type="NORMAL" orientation="FORWARD" lat="50.07434282062425" lon="19.79962859179117"/>
 		<TaxiwayPoint index="35" type="NORMAL" orientation="FORWARD" lat="50.07437351802689" lon="19.80295111894022"/>
@@ -817,11 +823,19 @@
 		<TaxiwayPoint index="30" type="NORMAL" orientation="FORWARD" lat="50.07998163306952" lon="19.80101025569652"/>
 		<TaxiwayPoint index="28" type="NORMAL" orientation="FORWARD" lat="50.08006748023083" lon="19.80269142907812"/>
 		<TaxiwayPoint index="29" type="NORMAL" orientation="FORWARD" lat="50.08013520073681" lon="19.80221974995581"/>
+		<TaxiwayParking index="141" type="GATE_HEAVY" lat="50.07327294846900" lon="19.80016224777135" heading="173.483627" radius="32.000000" name="PARKING" number="1" suffix="GATE_L" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="137" type="GATE_HEAVY" lat="50.07334626739837" lon="19.80107348860060" heading="169.151520" radius="32.000000" name="PARKING" number="3" suffix="GATE_R" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="132" type="GATE_HEAVY" lat="50.07349938121668" lon="19.80205517446311" heading="175.593796" radius="32.000000" name="PARKING" number="4" suffix="GATE_L" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="126" type="GATE_HEAVY" lat="50.07360402132372" lon="19.80348778358363" heading="167.969193" radius="32.000000" name="PARKING" number="7" suffix="NONE" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="142" type="GATE_MEDIUM" lat="50.07318086012089" lon="19.80006690273644" heading="166.583282" radius="22.000000" name="PARKING" number="1" suffix="GATE_R" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="118" type="GATE_MEDIUM" lat="50.07455182108389" lon="19.80464690490340" heading="107.043091" radius="22.000000" name="PARKING" number="10" suffix="NONE" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="115" type="GATE_MEDIUM" lat="50.07500694951455" lon="19.80487049128556" heading="243.645889" radius="22.000000" name="PARKING" number="11" suffix="NONE" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="68" type="GATE_MEDIUM" lat="50.07539014908958" lon="19.80505463717310" heading="107.000000" radius="22.000000" name="PARKING" number="12" suffix="NONE" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="139" type="GATE_MEDIUM" lat="50.07344397842996" lon="19.80055158568011" heading="174.286682" radius="22.000000" name="PARKING" number="2" suffix="NONE" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="135" type="GATE_MEDIUM" lat="50.07346049405461" lon="19.80115141764216" heading="175.135834" radius="22.000000" name="PARKING" number="3" suffix="GATE_L" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="134" type="GATE_MEDIUM" lat="50.07347143913153" lon="19.80191791735478" heading="169.426193" radius="22.000000" name="PARKING" number="4" suffix="GATE_R" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
+		<TaxiwayParking index="129" type="GATE_MEDIUM" lat="50.07366449538407" lon="19.80242723666807" heading="169.530777" radius="22.000000" name="PARKING" number="5" suffix="NONE" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="127" type="GATE_MEDIUM" lat="50.07365155245356" lon="19.80321689649970" heading="166.671082" radius="22.000000" name="PARKING" number="6" suffix="NONE" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
-		<TaxiwayParking index="126" type="GATE_MEDIUM" lat="50.07360402132372" lon="19.80348778358363" heading="167.969193" radius="22.000000" name="PARKING" number="7" suffix="NONE" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="124" type="GATE_MEDIUM" lat="50.07365167992385" lon="19.80383661492894" heading="163.420776" radius="22.000000" name="PARKING" number="8" suffix="NONE" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="119" type="GATE_MEDIUM" lat="50.07416651320116" lon="19.80444131262671" heading="100.000000" radius="22.000000" name="PARKING" number="9" suffix="NONE" pushBack="BOTH" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiwayParking index="121" type="GATE_SMALL" lat="50.07378844834615" lon="19.80439058694045" heading="140.683762" radius="15.000000" name="PARKING" number="9" suffix="GATE_R" pushBack="NONE" numberMarking="TRUE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
@@ -853,6 +867,14 @@
 		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="122" end="124" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="128" end="126" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="35" end="127" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="131" end="129" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="133" end="132" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="130" end="134" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="136" end="135" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="138" end="137" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="36" end="139" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="140" end="141" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="PARKING" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="37" end="142" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="0" end="1" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="4" end="2" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="2" end="3" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
@@ -874,7 +896,7 @@
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="28" end="29" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="29" end="30" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="69" end="32" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="40" end="37" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="140" end="37" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="37" end="38" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="36" end="40" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="39" end="41" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
@@ -947,6 +969,7 @@
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="96" end="112" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="12" end="113" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="27" end="114" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="40" end="140" width="23.000000" weightLimit="0" name="0" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="RUNWAY" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="60" end="20" width="60.000000" weightLimit="0" number="25" designator="NONE" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="RUNWAY" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="65" end="30" width="60.000000" weightLimit="0" number="25" designator="NONE" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="RUNWAY" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="FALSE" start="3" end="60" width="60.000000" weightLimit="0" number="25" designator="NONE" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
@@ -980,7 +1003,12 @@
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="72" end="79" width="23.000000" weightLimit="0" name="13" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="43" end="39" width="23.000000" weightLimit="0" name="14" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="38" end="78" width="23.000000" weightLimit="0" name="15" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
-		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="35" end="36" width="23.000000" weightLimit="0" name="16" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="138" end="36" width="23.000000" weightLimit="0" name="16" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="133" end="130" width="23.000000" weightLimit="0" name="16" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="35" end="131" width="23.000000" weightLimit="0" name="16" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="131" end="133" width="23.000000" weightLimit="0" name="16" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="130" end="136" width="23.000000" weightLimit="0" name="16" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
+		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="136" end="138" width="23.000000" weightLimit="0" name="16" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="117" end="33" width="23.000000" weightLimit="0" name="17" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="120" end="34" width="23.000000" weightLimit="0" name="17" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
 		<TaxiwayPath type="TAXI" surface="{85D02B2B-08A1-452E-AB07-6D5AE7F52884}" centerLine="TRUE" start="128" end="35" width="23.000000" weightLimit="0" name="17" drawSurface="FALSE" drawDetail="TRUE" groundMerging="TRUE" excludeVegetationAround="TRUE" excludeVegetationInside="TRUE"/>
@@ -1014,6 +1042,31 @@
 			<RunwayStart end="PRIMARY" lat="50.08009850267737" lon="19.80185489322392" alt="222.98757673799992" heading="258.00000000000000"/>
 			<RunwayStart end="SECONDARY" lat="50.07553527226045" lon="19.76893958754059" alt="228.87894059158862" heading="78.00000000000000"/>
 		</Runway>
+		<Jetway gateName="PARKING" parkingNumber="1" suffix="GATE_L">
+			<SceneryObject lat="50.07303677512468" lon="19.80056931771945" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+				<SimObject containerTitle="ASO_Boarding_Stairs" scale="1.000000"/>
+			</SceneryObject>
+		</Jetway>
+		<Jetway gateName="PARKING" parkingNumber="3" suffix="GATE_R">
+			<SceneryObject lat="50.07317258312345" lon="19.80141120533741" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+				<SimObject containerTitle="ASO_Boarding_Stairs" scale="1.000000"/>
+			</SceneryObject>
+		</Jetway>
+		<Jetway gateName="PARKING" parkingNumber="4" suffix="GATE_L">
+			<SceneryObject lat="50.07329294543676" lon="19.80246566066281" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+				<SimObject containerTitle="ASO_Boarding_Stairs" scale="1.000000"/>
+			</SceneryObject>
+		</Jetway>
+		<Jetway gateName="PARKING" parkingNumber="7" suffix="NONE">
+			<SceneryObject lat="50.07347736507497" lon="19.80423028806721" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+				<SimObject containerTitle="ASO_Boarding_Stairs" scale="1.000000"/>
+			</SceneryObject>
+		</Jetway>
+		<Jetway gateName="PARKING" parkingNumber="1" suffix="GATE_R">
+			<SceneryObject lat="50.07300483144135" lon="19.80047153589241" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+				<SimObject containerTitle="ASO_Boarding_Stairs" scale="1.000000"/>
+			</SceneryObject>
+		</Jetway>
 		<Jetway gateName="PARKING" parkingNumber="10" suffix="NONE">
 			<SceneryObject lat="50.07462986472130" lon="19.80501575583286" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 				<SimObject containerTitle="ASO_Boarding_Stairs" scale="1.000000"/>
@@ -1029,13 +1082,28 @@
 				<SimObject containerTitle="ASO_Boarding_Stairs" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
-		<Jetway gateName="PARKING" parkingNumber="6" suffix="NONE">
-			<SceneryObject lat="50.07345448331922" lon="19.80415955276445" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Jetway gateName="PARKING" parkingNumber="2" suffix="NONE">
+			<SceneryObject lat="50.07309696716846" lon="19.80065135092989" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 				<SimObject containerTitle="ASO_Boarding_Stairs" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>
-		<Jetway gateName="PARKING" parkingNumber="7" suffix="NONE">
-			<SceneryObject lat="50.07347736507497" lon="19.80423028806721" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<Jetway gateName="PARKING" parkingNumber="3" suffix="GATE_L">
+			<SceneryObject lat="50.07321830590653" lon="19.80147181215927" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+				<SimObject containerTitle="ASO_Boarding_Stairs" scale="1.000000"/>
+			</SceneryObject>
+		</Jetway>
+		<Jetway gateName="PARKING" parkingNumber="4" suffix="GATE_R">
+			<SceneryObject lat="50.07326901034264" lon="19.80237486371124" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+				<SimObject containerTitle="ASO_Boarding_Stairs" scale="1.000000"/>
+			</SceneryObject>
+		</Jetway>
+		<Jetway gateName="PARKING" parkingNumber="5" suffix="NONE">
+			<SceneryObject lat="50.07360161960674" lon="19.80274563338534" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+				<SimObject containerTitle="ASO_Boarding_Stairs" scale="1.000000"/>
+			</SceneryObject>
+		</Jetway>
+		<Jetway gateName="PARKING" parkingNumber="6" suffix="NONE">
+			<SceneryObject lat="50.07345448331922" lon="19.80415955276445" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 				<SimObject containerTitle="ASO_Boarding_Stairs" scale="1.000000"/>
 			</SceneryObject>
 		</Jetway>

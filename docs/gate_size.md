@@ -33,6 +33,6 @@ combination of aircraft wingspan and outer main gear wheel span.
 | A             |                       | 
 | B             | Gate small            |
 | C             | Gate medium           |
-| D             |                       |
-| E             |                       |
+| D             | Gate heavy            |
+| E             | Gate heavy            |
 | F             |                       |
